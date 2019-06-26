@@ -1,0 +1,21 @@
+{
+  "name": "elewa-portal-contracts",
+  "version": "1.0.0",
+  "description": "Shared Data Structures between Elewa Portal and Elewa Portal Services",
+  "main": "index.js",
+  "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/elewa/elewa-portal-contracts.git"
+  },
+  "keywords": [
+    "Contracts",
+    "DTO"
+  ],
+  "author": "JRosseel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/elewa/elewa-portal-contracts/issues"
+  },
+  "homepage": "https://gitlab.com/elewa/elewa-portal-contracts#README"
+}

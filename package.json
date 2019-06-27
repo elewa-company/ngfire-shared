@@ -1,13 +1,17 @@
 {
   "name": "ngfire-shared",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "Interfaces, Types & Contracts shared between Firebase and Angular X, needed to make the interactions between both front- and back-end work.",
-  "main": "index.js",
+  "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/elewa/ngfire-shared.git"
+    "url": "git+https://github.com/elewa-company/ngfire-shared.git"
   },
+  "files": [
+    "dist",
+    "index.ts"
+  ],
   "keywords": [
     "Contracts",
     "DTO"
@@ -15,7 +19,7 @@
   "author": "JRosseel",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/elewa/ngfire-shared/issues"
+    "url": "https://github.com/elewa-company/ngfire-shared/issues"
   },
-  "homepage": "https://github.com/elewa/ngfire-shared"
+  "homepage": "https://github.com/elewa-company/ngfire-shared"
 }
